@@ -1,0 +1,16 @@
+[
+  {
+    "user_name": null,
+    "password": "12232",
+    "hashed_password": "12345",
+    "ticket_booked": null,
+    "user_id": null
+  },
+  {
+    "user_name": "vimal",
+    "password": "vimal123",
+    "hashed_password": "$2a$10$rnZYG2L7uZmyvOz4u4lSJu8oz9jiMCmCl0v8d51zd0cdGsl1opoM6",
+    "ticket_booked": [],
+    "user_id": "1081f0a3-bc92-44b5-bbbe-12f7a731f235"
+  }
+]
