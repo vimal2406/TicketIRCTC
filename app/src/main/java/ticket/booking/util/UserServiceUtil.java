@@ -13,4 +13,9 @@ public class UserServiceUtil {
         {
             return BCrypt.checkpw(hashedpassword, plainpassword);
         }
+
+        public void gitBranchCheck()
+        {
+            System.out.println("gitBranchCheck");
+        }
 }
